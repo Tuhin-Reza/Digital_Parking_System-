@@ -1,0 +1,10 @@
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Desktop\OOP-2\6.Visual_Studio\Lab-Task-3\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,12 @@
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\bin\Debug\netcoreapp3.1\Task-C.exe
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\bin\Debug\netcoreapp3.1\Task-C.deps.json
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\bin\Debug\netcoreapp3.1\Task-C.runtimeconfig.json
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\bin\Debug\netcoreapp3.1\Task-C.runtimeconfig.dev.json
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\bin\Debug\netcoreapp3.1\Task-C.dll
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\bin\Debug\netcoreapp3.1\Task-C.pdb
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\obj\Debug\netcoreapp3.1\Task-C.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\obj\Debug\netcoreapp3.1\Task-C.AssemblyInfo.cs
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\obj\Debug\netcoreapp3.1\Task-C.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\obj\Debug\netcoreapp3.1\Task-C.dll
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\obj\Debug\netcoreapp3.1\Task-C.pdb
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-C\obj\Debug\netcoreapp3.1\Task-C.genruntimeconfig.cache

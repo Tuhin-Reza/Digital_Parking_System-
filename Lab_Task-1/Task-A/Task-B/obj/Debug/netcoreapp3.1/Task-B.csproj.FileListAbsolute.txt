@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\bin\Debug\netcoreapp3.1\Task-B.exe
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\bin\Debug\netcoreapp3.1\Task-B.deps.json
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\bin\Debug\netcoreapp3.1\Task-B.runtimeconfig.json
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\bin\Debug\netcoreapp3.1\Task-B.runtimeconfig.dev.json
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\bin\Debug\netcoreapp3.1\Task-B.dll
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\bin\Debug\netcoreapp3.1\Task-B.pdb
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\obj\Debug\netcoreapp3.1\Task-B.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\obj\Debug\netcoreapp3.1\Task-B.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\obj\Debug\netcoreapp3.1\Task-B.AssemblyInfo.cs
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\obj\Debug\netcoreapp3.1\Task-B.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\obj\Debug\netcoreapp3.1\Task-B.dll
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\obj\Debug\netcoreapp3.1\Task-B.pdb
+F:\Desktop\OOP-2\6.Visual_Studio\Lab_Task-1\Task-A\Task-B\obj\Debug\netcoreapp3.1\Task-B.genruntimeconfig.cache
