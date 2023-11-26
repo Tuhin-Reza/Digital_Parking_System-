@@ -1,0 +1,15 @@
+C:\Users\Teacher\Desktop\Practice\Properties_Class\bin\Debug\Properties_Class.exe.config
+C:\Users\Teacher\Desktop\Practice\Properties_Class\bin\Debug\Properties_Class.exe
+C:\Users\Teacher\Desktop\Practice\Properties_Class\bin\Debug\Properties_Class.pdb
+C:\Users\Teacher\Desktop\Practice\Properties_Class\obj\Debug\Properties_Class.exe
+C:\Users\Teacher\Desktop\Practice\Properties_Class\obj\Debug\Properties_Class.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Properties_Class\bin\Debug\Properties_Class.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Properties_Class\obj\Debug\Properties_Class.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Properties_Class\obj\Debug\Properties_Class.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Properties_Class\bin\Debug\Properties_Class.exe.config
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Properties_Class\bin\Debug\Properties_Class.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Properties_Class\bin\Debug\Properties_Class.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Properties_Class\obj\Debug\Properties_Class.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Properties_Class\obj\Debug\Properties_Class.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Properties_Class\obj\Debug\Properties_Class.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Properties_Class\obj\Debug\Properties_Class.pdb

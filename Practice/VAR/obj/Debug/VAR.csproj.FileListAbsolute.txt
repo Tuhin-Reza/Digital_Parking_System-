@@ -1,0 +1,12 @@
+C:\Users\Teacher\Desktop\Practice\VAR\bin\Debug\VAR.exe.config
+C:\Users\Teacher\Desktop\Practice\VAR\bin\Debug\VAR.exe
+C:\Users\Teacher\Desktop\Practice\VAR\bin\Debug\VAR.pdb
+C:\Users\Teacher\Desktop\Practice\VAR\obj\Debug\VAR.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Practice\VAR\obj\Debug\VAR.exe
+C:\Users\Teacher\Desktop\Practice\VAR\obj\Debug\VAR.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\VAR\bin\Debug\VAR.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\VAR\obj\Debug\VAR.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\VAR\obj\Debug\VAR.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\VAR\bin\Debug\VAR.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\VAR\bin\Debug\VAR.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\VAR\obj\Debug\VAR.csprojResolveAssemblyReference.cache

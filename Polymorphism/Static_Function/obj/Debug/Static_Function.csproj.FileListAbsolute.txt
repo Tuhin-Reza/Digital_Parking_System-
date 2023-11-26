@@ -1,0 +1,12 @@
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Function\bin\Debug\Static_Function.exe.config
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Function\bin\Debug\Static_Function.exe
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Function\bin\Debug\Static_Function.pdb
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Function\obj\Debug\Static_Function.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Function\obj\Debug\Static_Function.exe
+C:\Users\Teacher\Desktop\For You (Polymorphism )\Static_Function\obj\Debug\Static_Function.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Function\bin\Debug\Static_Function.exe.config
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Function\obj\Debug\Static_Function.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Function\obj\Debug\Static_Function.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Function\bin\Debug\Static_Function.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Function\bin\Debug\Static_Function.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Polymorphism\Static_Function\obj\Debug\Static_Function.csprojResolveAssemblyReference.cache

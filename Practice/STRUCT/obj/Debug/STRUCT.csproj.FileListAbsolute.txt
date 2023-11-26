@@ -1,0 +1,16 @@
+C:\Users\Teacher\Desktop\Practice\STRUCT\bin\Debug\STRUCT.exe.config
+C:\Users\Teacher\Desktop\Practice\STRUCT\bin\Debug\STRUCT.exe
+C:\Users\Teacher\Desktop\Practice\STRUCT\bin\Debug\STRUCT.pdb
+C:\Users\Teacher\Desktop\Practice\STRUCT\obj\Debug\STRUCT.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Practice\STRUCT\obj\Debug\STRUCT.exe
+C:\Users\Teacher\Desktop\Practice\STRUCT\obj\Debug\STRUCT.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\STRUCT\bin\Debug\STRUCT.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\STRUCT\obj\Debug\STRUCT.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\STRUCT\obj\Debug\STRUCT.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\STRUCT\bin\Debug\STRUCT.exe.config
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\STRUCT\bin\Debug\STRUCT.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\STRUCT\bin\Debug\STRUCT.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\STRUCT\obj\Debug\STRUCT.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\STRUCT\obj\Debug\STRUCT.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\STRUCT\obj\Debug\STRUCT.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\STRUCT\obj\Debug\STRUCT.pdb

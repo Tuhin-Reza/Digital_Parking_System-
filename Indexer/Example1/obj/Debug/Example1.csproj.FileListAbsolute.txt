@@ -1,0 +1,25 @@
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example1\bin\Debug\Example1.exe.config
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example1\bin\Debug\Example1.exe
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example1\bin\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example1\obj\Debug\Example1.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example1\obj\Debug\Example1.exe
+C:\Users\Teacher\Desktop\MQ2\Indexer\Example1\obj\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\28 & 29 Feb\C#\Indexer\Indexer\Example1\bin\Debug\Example1.exe.config
+C:\Users\Teacher\Desktop\28 & 29 Feb\C#\Indexer\Indexer\Example1\obj\Debug\Example1.exe
+C:\Users\Teacher\Desktop\28 & 29 Feb\C#\Indexer\Indexer\Example1\obj\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\28 & 29 Feb\C#\Indexer\Indexer\Example1\bin\Debug\Example1.exe
+C:\Users\Teacher\Desktop\28 & 29 Feb\C#\Indexer\Indexer\Example1\bin\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\28 & 29 Feb\C#\Indexer\Indexer\Example1\obj\Debug\Example1.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example1\bin\Debug\Example1.exe.config
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example1\obj\Debug\Example1.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example1\obj\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example1\bin\Debug\Example1.exe
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example1\bin\Debug\Example1.pdb
+C:\Users\Teacher\Desktop\OOP2_W6_Spring_2020-21\Indexer\Example1\obj\Debug\Example1.csprojResolveAssemblyReference.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W6_Spring_2020-21\Indexer\Example1\bin\Debug\Example1.exe.config
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W6_Spring_2020-21\Indexer\Example1\bin\Debug\Example1.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W6_Spring_2020-21\Indexer\Example1\bin\Debug\Example1.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W6_Spring_2020-21\Indexer\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W6_Spring_2020-21\Indexer\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W6_Spring_2020-21\Indexer\Example1\obj\Debug\Example1.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W6_Spring_2020-21\Indexer\Example1\obj\Debug\Example1.pdb

@@ -1,0 +1,24 @@
+C:\Users\Teacher\Desktop\ForYou\Constructor Chaining\bin\Debug\Constructor Chaining.exe.config
+C:\Users\Teacher\Desktop\ForYou\Constructor Chaining\bin\Debug\Constructor Chaining.exe
+C:\Users\Teacher\Desktop\ForYou\Constructor Chaining\bin\Debug\Constructor Chaining.pdb
+C:\Users\Teacher\Desktop\ForYou\Constructor Chaining\obj\Debug\Constructor Chaining.exe
+C:\Users\Teacher\Desktop\ForYou\Constructor Chaining\obj\Debug\Constructor Chaining.pdb
+C:\Users\Teacher\Desktop\14 & 15 Feb 2021\C#\ForYou(Inheritance)\Constructor Chaining\bin\Debug\Constructor Chaining.exe.config
+C:\Users\Teacher\Desktop\14 & 15 Feb 2021\C#\ForYou(Inheritance)\Constructor Chaining\obj\Debug\Constructor Chaining.exe
+C:\Users\Teacher\Desktop\14 & 15 Feb 2021\C#\ForYou(Inheritance)\Constructor Chaining\obj\Debug\Constructor Chaining.pdb
+C:\Users\Teacher\Desktop\14 & 15 Feb 2021\C#\ForYou(Inheritance)\Constructor Chaining\bin\Debug\Constructor Chaining.exe
+C:\Users\Teacher\Desktop\14 & 15 Feb 2021\C#\ForYou(Inheritance)\Constructor Chaining\bin\Debug\Constructor Chaining.pdb
+C:\Users\Teacher\Desktop\14 & 15 Feb 2021\C#\ForYou(Inheritance)\Constructor Chaining\obj\Debug\Constructor Chaining.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\bin\Debug\Constructor Chaining.exe.config
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\obj\Debug\Constructor Chaining.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\obj\Debug\Constructor Chaining.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\bin\Debug\Constructor Chaining.exe
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\bin\Debug\Constructor Chaining.pdb
+C:\Users\Teacher\Desktop\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\obj\Debug\Constructor Chaining.csprojResolveAssemblyReference.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\bin\Debug\Constructor Chaining.exe.config
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\bin\Debug\Constructor Chaining.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\bin\Debug\Constructor Chaining.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\obj\Debug\Constructor Chaining.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\obj\Debug\Constructor Chaining.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\obj\Debug\Constructor Chaining.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W4_Spring_2020-21\Inheritance\Constructor Chaining\obj\Debug\Constructor Chaining.pdb

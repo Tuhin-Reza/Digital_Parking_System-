@@ -1,0 +1,9 @@
+C:\Users\Teacher\Desktop\Practice\ReadOnly\bin\Debug\ReadOnly.exe.config
+C:\Users\Teacher\Desktop\Practice\ReadOnly\obj\Debug\ReadOnly.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Practice\ReadOnly\bin\Debug\ReadOnly.exe
+C:\Users\Teacher\Desktop\Practice\ReadOnly\bin\Debug\ReadOnly.pdb
+C:\Users\Teacher\Desktop\Practice\ReadOnly\obj\Debug\ReadOnly.exe
+C:\Users\Teacher\Desktop\Practice\ReadOnly\obj\Debug\ReadOnly.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\ReadOnly\bin\Debug\ReadOnly.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\ReadOnly\obj\Debug\ReadOnly.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\ReadOnly\obj\Debug\ReadOnly.pdb

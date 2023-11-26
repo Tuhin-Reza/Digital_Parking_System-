@@ -1,0 +1,16 @@
+C:\Users\Teacher\Desktop\Practice\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\Teacher\Desktop\Practice\Enumeration\obj\Debug\Enumeration.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Practice\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\Teacher\Desktop\Practice\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\Teacher\Desktop\Practice\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\Teacher\Desktop\Practice\Enumeration\obj\Debug\Enumeration.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Enumeration\obj\Debug\Enumeration.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Enumeration\bin\Debug\Enumeration.exe.config
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Enumeration\bin\Debug\Enumeration.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Enumeration\bin\Debug\Enumeration.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Enumeration\obj\Debug\Enumeration.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Enumeration\obj\Debug\Enumeration.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\Enumeration\obj\Debug\Enumeration.pdb

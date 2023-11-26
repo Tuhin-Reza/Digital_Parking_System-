@@ -1,0 +1,15 @@
+C:\Users\Teacher\Desktop\Practice\String\bin\Debug\String.exe.config
+C:\Users\Teacher\Desktop\Practice\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Practice\String\bin\Debug\String.exe
+C:\Users\Teacher\Desktop\Practice\String\bin\Debug\String.pdb
+C:\Users\Teacher\Desktop\Practice\String\obj\Debug\String.exe
+C:\Users\Teacher\Desktop\Practice\String\obj\Debug\String.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\String\bin\Debug\String.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\String\obj\Debug\String.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\String\obj\Debug\String.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\String\bin\Debug\String.exe.config
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\String\bin\Debug\String.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\String\bin\Debug\String.pdb
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\String\obj\Debug\String.exe
+F:\Desktop\OOP-2\6.Zip_File\OOP2_W3_Spring_2020-21\Practice\String\obj\Debug\String.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\EXTRA\bin\Debug\EXTRA.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\EXTRA\bin\Debug\EXTRA.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\EXTRA\bin\Debug\EXTRA.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\EXTRA\obj\Debug\EXTRA.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\EXTRA\obj\Debug\EXTRA.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\EXTRA\obj\Debug\EXTRA.pdb

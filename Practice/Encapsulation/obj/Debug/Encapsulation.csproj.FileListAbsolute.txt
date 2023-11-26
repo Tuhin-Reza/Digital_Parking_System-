@@ -1,0 +1,5 @@
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Teacher\Desktop\OOP2_W3_Spring_2020-21\Practice\Encapsulation\obj\Debug\Encapsulation.pdb
