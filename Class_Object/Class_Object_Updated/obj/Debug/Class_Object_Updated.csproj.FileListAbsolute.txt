@@ -1,0 +1,5 @@
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_Updated\bin\Debug\Class_Object_Updated.exe.config
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_Updated\bin\Debug\Class_Object_Updated.exe
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_Updated\bin\Debug\Class_Object_Updated.pdb
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_Updated\obj\Debug\Class_Object_Updated.exe
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_Updated\obj\Debug\Class_Object_Updated.pdb

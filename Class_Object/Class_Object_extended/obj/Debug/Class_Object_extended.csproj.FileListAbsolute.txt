@@ -1,0 +1,5 @@
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_extended\bin\Debug\Class_Object_extended.exe.config
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_extended\bin\Debug\Class_Object_extended.exe
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_extended\bin\Debug\Class_Object_extended.pdb
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_extended\obj\Debug\Class_Object_extended.exe
+C:\Users\Teacher\Desktop\Class_Object\Class_Object_extended\obj\Debug\Class_Object_extended.pdb
