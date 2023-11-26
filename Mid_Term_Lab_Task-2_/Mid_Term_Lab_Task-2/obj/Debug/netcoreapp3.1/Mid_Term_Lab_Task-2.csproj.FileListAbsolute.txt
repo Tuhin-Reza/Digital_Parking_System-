@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\bin\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.exe
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\bin\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.deps.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\bin\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.runtimeconfig.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\bin\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.runtimeconfig.dev.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\bin\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\bin\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\obj\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\obj\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\obj\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.AssemblyInfo.cs
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\obj\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\obj\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\obj\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mid_Term_Lab_Task-2\obj\Debug\netcoreapp3.1\Mid_Term_Lab_Task-2.genruntimeconfig.cache

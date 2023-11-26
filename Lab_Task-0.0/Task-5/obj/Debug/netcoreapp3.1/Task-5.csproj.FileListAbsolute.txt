@@ -1,0 +1,12 @@
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\bin\Debug\netcoreapp3.1\Task-5.exe
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\bin\Debug\netcoreapp3.1\Task-5.deps.json
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\bin\Debug\netcoreapp3.1\Task-5.runtimeconfig.json
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\bin\Debug\netcoreapp3.1\Task-5.runtimeconfig.dev.json
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\bin\Debug\netcoreapp3.1\Task-5.dll
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\bin\Debug\netcoreapp3.1\Task-5.pdb
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\obj\Debug\netcoreapp3.1\Task-5.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\obj\Debug\netcoreapp3.1\Task-5.AssemblyInfo.cs
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\obj\Debug\netcoreapp3.1\Task-5.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\obj\Debug\netcoreapp3.1\Task-5.dll
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\obj\Debug\netcoreapp3.1\Task-5.pdb
+F:\Desktop\OOP-2\Lab\Lab_Task-0.0\Task-5\obj\Debug\netcoreapp3.1\Task-5.genruntimeconfig.cache

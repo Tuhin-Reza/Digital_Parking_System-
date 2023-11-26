@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\obj\Debug\netcoreapp3.1\Accounts.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfo.cs
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\obj\Debug\netcoreapp3.1\Accounts.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\bin\Debug\netcoreapp3.1\Accounts.exe
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\bin\Debug\netcoreapp3.1\Accounts.deps.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.dev.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\bin\Debug\netcoreapp3.1\Accounts.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\bin\Debug\netcoreapp3.1\Accounts.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\obj\Debug\netcoreapp3.1\Accounts.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\obj\Debug\netcoreapp3.1\Accounts.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Accounts\obj\Debug\netcoreapp3.1\Accounts.genruntimeconfig.cache

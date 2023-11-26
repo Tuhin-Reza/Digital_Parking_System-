@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\bin\Debug\netcoreapp3.1\Mobiles.exe
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\bin\Debug\netcoreapp3.1\Mobiles.deps.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\bin\Debug\netcoreapp3.1\Mobiles.runtimeconfig.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\bin\Debug\netcoreapp3.1\Mobiles.runtimeconfig.dev.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\bin\Debug\netcoreapp3.1\Mobiles.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\bin\Debug\netcoreapp3.1\Mobiles.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\obj\Debug\netcoreapp3.1\Mobiles.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\obj\Debug\netcoreapp3.1\Mobiles.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\obj\Debug\netcoreapp3.1\Mobiles.AssemblyInfo.cs
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\obj\Debug\netcoreapp3.1\Mobiles.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\obj\Debug\netcoreapp3.1\Mobiles.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\obj\Debug\netcoreapp3.1\Mobiles.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Mobile\obj\Debug\netcoreapp3.1\Mobiles.genruntimeconfig.cache

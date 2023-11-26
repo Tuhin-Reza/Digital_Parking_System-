@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\bin\Debug\netcoreapp3.1\Contacts.exe
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\bin\Debug\netcoreapp3.1\Contacts.deps.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.dev.json
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\bin\Debug\netcoreapp3.1\Contacts.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\bin\Debug\netcoreapp3.1\Contacts.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfo.cs
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\obj\Debug\netcoreapp3.1\Contacts.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\obj\Debug\netcoreapp3.1\Contacts.dll
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\obj\Debug\netcoreapp3.1\Contacts.pdb
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\obj\Debug\netcoreapp3.1\Contacts.genruntimeconfig.cache
+F:\Desktop\OOP-2\4.Lab_Task\Mid_Term_Lab_Task-2\Contacts\obj\Debug\netcoreapp3.1\Contacts.csprojAssemblyReference.cache

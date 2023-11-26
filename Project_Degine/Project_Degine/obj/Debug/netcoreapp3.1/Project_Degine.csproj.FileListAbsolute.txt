@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\bin\Debug\netcoreapp3.1\Project_Degine.exe
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\bin\Debug\netcoreapp3.1\Project_Degine.deps.json
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\bin\Debug\netcoreapp3.1\Project_Degine.runtimeconfig.json
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\bin\Debug\netcoreapp3.1\Project_Degine.runtimeconfig.dev.json
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\bin\Debug\netcoreapp3.1\Project_Degine.dll
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\bin\Debug\netcoreapp3.1\Project_Degine.pdb
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\obj\Debug\netcoreapp3.1\Project_Degine.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\obj\Debug\netcoreapp3.1\Project_Degine.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\obj\Debug\netcoreapp3.1\Project_Degine.AssemblyInfo.cs
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\obj\Debug\netcoreapp3.1\Project_Degine.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\obj\Debug\netcoreapp3.1\Project_Degine.dll
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\obj\Debug\netcoreapp3.1\Project_Degine.pdb
+F:\Desktop\OOP-2\0.MID_POINT\4.Lab_Task\Project_Degine\Project_Degine\obj\Debug\netcoreapp3.1\Project_Degine.genruntimeconfig.cache
