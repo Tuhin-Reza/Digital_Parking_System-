@@ -1,0 +1,12 @@
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\bin\Debug\netcoreapp3.1\Multiple_Interface.exe
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\bin\Debug\netcoreapp3.1\Multiple_Interface.deps.json
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\bin\Debug\netcoreapp3.1\Multiple_Interface.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\bin\Debug\netcoreapp3.1\Multiple_Interface.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\bin\Debug\netcoreapp3.1\Multiple_Interface.dll
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\bin\Debug\netcoreapp3.1\Multiple_Interface.pdb
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\obj\Debug\netcoreapp3.1\Multiple_Interface.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\obj\Debug\netcoreapp3.1\Multiple_Interface.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\obj\Debug\netcoreapp3.1\Multiple_Interface.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\obj\Debug\netcoreapp3.1\Multiple_Interface.dll
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\obj\Debug\netcoreapp3.1\Multiple_Interface.pdb
+F:\Desktop\OOP-2\5.Exercise\Interface\Multiple_Interface\obj\Debug\netcoreapp3.1\Multiple_Interface.genruntimeconfig.cache

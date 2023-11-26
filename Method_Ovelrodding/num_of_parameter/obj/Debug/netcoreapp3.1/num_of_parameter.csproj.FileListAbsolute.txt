@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\bin\Debug\netcoreapp3.1\num_of_parameter.exe
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\bin\Debug\netcoreapp3.1\num_of_parameter.deps.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\bin\Debug\netcoreapp3.1\num_of_parameter.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\bin\Debug\netcoreapp3.1\num_of_parameter.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\bin\Debug\netcoreapp3.1\num_of_parameter.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\bin\Debug\netcoreapp3.1\num_of_parameter.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\obj\Debug\netcoreapp3.1\num_of_parameter.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\obj\Debug\netcoreapp3.1\num_of_parameter.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\obj\Debug\netcoreapp3.1\num_of_parameter.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\obj\Debug\netcoreapp3.1\num_of_parameter.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\obj\Debug\netcoreapp3.1\num_of_parameter.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\obj\Debug\netcoreapp3.1\num_of_parameter.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\num_of_parameter\obj\Debug\netcoreapp3.1\num_of_parameter.genruntimeconfig.cache

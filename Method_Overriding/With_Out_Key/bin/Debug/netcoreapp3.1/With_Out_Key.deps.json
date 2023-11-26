@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "With_Out_Key/1.0.0": {
+        "runtime": {
+          "With_Out_Key.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "With_Out_Key/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

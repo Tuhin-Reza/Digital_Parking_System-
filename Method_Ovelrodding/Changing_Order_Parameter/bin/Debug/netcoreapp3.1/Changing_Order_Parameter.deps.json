@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Changing_Order_Parameter/1.0.0": {
+        "runtime": {
+          "Changing_Order_Parameter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Changing_Order_Parameter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

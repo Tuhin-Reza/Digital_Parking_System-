@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\bin\Debug\netcoreapp3.1\Changing_D_T_Parametr.exe
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\bin\Debug\netcoreapp3.1\Changing_D_T_Parametr.deps.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\bin\Debug\netcoreapp3.1\Changing_D_T_Parametr.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\bin\Debug\netcoreapp3.1\Changing_D_T_Parametr.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\bin\Debug\netcoreapp3.1\Changing_D_T_Parametr.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\bin\Debug\netcoreapp3.1\Changing_D_T_Parametr.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\obj\Debug\netcoreapp3.1\Changing_D_T_Parametr.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\obj\Debug\netcoreapp3.1\Changing_D_T_Parametr.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\obj\Debug\netcoreapp3.1\Changing_D_T_Parametr.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\obj\Debug\netcoreapp3.1\Changing_D_T_Parametr.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\obj\Debug\netcoreapp3.1\Changing_D_T_Parametr.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\obj\Debug\netcoreapp3.1\Changing_D_T_Parametr.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Changing_D_T_Parametr\obj\Debug\netcoreapp3.1\Changing_D_T_Parametr.genruntimeconfig.cache

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{951313D6-EE24-4420-8E49-3A59FDFA2F2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RAP", "RAP\RAP.csproj", "{2F57FF1A-3E49-4402-863E-8C07F1EEB06D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz-1_Solution", "Quiz-1_Solution\Quiz-1_Solution.csproj", "{4022A4CB-9421-4868-9022-9608AD7888E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "..\Inheritance\Inheritance.csproj", "{96D19569-2E8F-477E-A881-86D900B24638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "..\Inheritance\MethodOverriding\MethodOverriding.csproj", "{E75AD4FE-B4B4-4204-B473-BDDCE6FEB04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "..\Abstraction\Abstraction.csproj", "{509DDE1E-1ADE-439A-80CC-F61BDF684396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951313D6-EE24-4420-8E49-3A59FDFA2F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951313D6-EE24-4420-8E49-3A59FDFA2F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951313D6-EE24-4420-8E49-3A59FDFA2F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951313D6-EE24-4420-8E49-3A59FDFA2F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F57FF1A-3E49-4402-863E-8C07F1EEB06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F57FF1A-3E49-4402-863E-8C07F1EEB06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F57FF1A-3E49-4402-863E-8C07F1EEB06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F57FF1A-3E49-4402-863E-8C07F1EEB06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4022A4CB-9421-4868-9022-9608AD7888E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4022A4CB-9421-4868-9022-9608AD7888E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4022A4CB-9421-4868-9022-9608AD7888E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4022A4CB-9421-4868-9022-9608AD7888E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D19569-2E8F-477E-A881-86D900B24638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D19569-2E8F-477E-A881-86D900B24638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D19569-2E8F-477E-A881-86D900B24638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D19569-2E8F-477E-A881-86D900B24638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75AD4FE-B4B4-4204-B473-BDDCE6FEB04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75AD4FE-B4B4-4204-B473-BDDCE6FEB04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75AD4FE-B4B4-4204-B473-BDDCE6FEB04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75AD4FE-B4B4-4204-B473-BDDCE6FEB04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509DDE1E-1ADE-439A-80CC-F61BDF684396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509DDE1E-1ADE-439A-80CC-F61BDF684396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509DDE1E-1ADE-439A-80CC-F61BDF684396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509DDE1E-1ADE-439A-80CC-F61BDF684396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFF52BA-68F7-4468-AA86-04EF70BF0C91}
+	EndGlobalSection
+EndGlobal

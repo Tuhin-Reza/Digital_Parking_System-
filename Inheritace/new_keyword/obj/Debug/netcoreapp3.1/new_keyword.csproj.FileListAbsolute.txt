@@ -1,0 +1,12 @@
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\bin\Debug\netcoreapp3.1\new_keyword.exe
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\bin\Debug\netcoreapp3.1\new_keyword.deps.json
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\bin\Debug\netcoreapp3.1\new_keyword.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\bin\Debug\netcoreapp3.1\new_keyword.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\bin\Debug\netcoreapp3.1\new_keyword.dll
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\bin\Debug\netcoreapp3.1\new_keyword.pdb
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\obj\Debug\netcoreapp3.1\new_keyword.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\obj\Debug\netcoreapp3.1\new_keyword.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\obj\Debug\netcoreapp3.1\new_keyword.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\obj\Debug\netcoreapp3.1\new_keyword.dll
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\obj\Debug\netcoreapp3.1\new_keyword.pdb
+F:\Desktop\OOP-2\5.Exercise\Inheritace\new_keyword\obj\Debug\netcoreapp3.1\new_keyword.genruntimeconfig.cache

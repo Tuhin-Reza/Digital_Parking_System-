@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\bin\Debug\netcoreapp3.1\RAP.exe
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\bin\Debug\netcoreapp3.1\RAP.deps.json
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\bin\Debug\netcoreapp3.1\RAP.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\bin\Debug\netcoreapp3.1\RAP.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\bin\Debug\netcoreapp3.1\RAP.dll
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\bin\Debug\netcoreapp3.1\RAP.pdb
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\obj\Debug\netcoreapp3.1\RAP.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\obj\Debug\netcoreapp3.1\RAP.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\obj\Debug\netcoreapp3.1\RAP.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\obj\Debug\netcoreapp3.1\RAP.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\obj\Debug\netcoreapp3.1\RAP.dll
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\obj\Debug\netcoreapp3.1\RAP.pdb
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\RAP\obj\Debug\netcoreapp3.1\RAP.genruntimeconfig.cache

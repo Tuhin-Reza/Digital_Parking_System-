@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\bin\Debug\netcoreapp3.1\Constructor_Overlodding.exe
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\bin\Debug\netcoreapp3.1\Constructor_Overlodding.deps.json
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\bin\Debug\netcoreapp3.1\Constructor_Overlodding.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\bin\Debug\netcoreapp3.1\Constructor_Overlodding.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\bin\Debug\netcoreapp3.1\Constructor_Overlodding.dll
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\bin\Debug\netcoreapp3.1\Constructor_Overlodding.pdb
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\obj\Debug\netcoreapp3.1\Constructor_Overlodding.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\obj\Debug\netcoreapp3.1\Constructor_Overlodding.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\obj\Debug\netcoreapp3.1\Constructor_Overlodding.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\obj\Debug\netcoreapp3.1\Constructor_Overlodding.dll
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\obj\Debug\netcoreapp3.1\Constructor_Overlodding.pdb
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\obj\Debug\netcoreapp3.1\Constructor_Overlodding.genruntimeconfig.cache
+F:\Desktop\OOP-2\5.Exercise\Constructor\Constructor_Overlodding\obj\Debug\netcoreapp3.1\Constructor_Overlodding.csprojAssemblyReference.cache

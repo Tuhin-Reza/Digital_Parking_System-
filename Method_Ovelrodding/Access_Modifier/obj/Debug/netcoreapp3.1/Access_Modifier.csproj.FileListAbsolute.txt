@@ -1,0 +1,12 @@
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\bin\Debug\netcoreapp3.1\Access_Modifier.exe
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\bin\Debug\netcoreapp3.1\Access_Modifier.deps.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\bin\Debug\netcoreapp3.1\Access_Modifier.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\bin\Debug\netcoreapp3.1\Access_Modifier.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\bin\Debug\netcoreapp3.1\Access_Modifier.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\bin\Debug\netcoreapp3.1\Access_Modifier.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\obj\Debug\netcoreapp3.1\Access_Modifier.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\obj\Debug\netcoreapp3.1\Access_Modifier.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\obj\Debug\netcoreapp3.1\Access_Modifier.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\obj\Debug\netcoreapp3.1\Access_Modifier.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\obj\Debug\netcoreapp3.1\Access_Modifier.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Access_Modifier\obj\Debug\netcoreapp3.1\Access_Modifier.genruntimeconfig.cache

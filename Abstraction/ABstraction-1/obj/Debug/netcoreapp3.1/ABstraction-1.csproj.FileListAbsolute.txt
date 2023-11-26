@@ -1,0 +1,12 @@
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\bin\Debug\netcoreapp3.1\ABstraction-1.exe
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\bin\Debug\netcoreapp3.1\ABstraction-1.deps.json
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\bin\Debug\netcoreapp3.1\ABstraction-1.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\bin\Debug\netcoreapp3.1\ABstraction-1.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\bin\Debug\netcoreapp3.1\ABstraction-1.dll
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\bin\Debug\netcoreapp3.1\ABstraction-1.pdb
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\obj\Debug\netcoreapp3.1\ABstraction-1.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\obj\Debug\netcoreapp3.1\ABstraction-1.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\obj\Debug\netcoreapp3.1\ABstraction-1.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\obj\Debug\netcoreapp3.1\ABstraction-1.dll
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\obj\Debug\netcoreapp3.1\ABstraction-1.pdb
+F:\Desktop\OOP-2\5.Exercise\Abstraction\ABstraction-1\obj\Debug\netcoreapp3.1\ABstraction-1.genruntimeconfig.cache

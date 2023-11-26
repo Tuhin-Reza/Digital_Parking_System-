@@ -1,0 +1,4 @@
+F:\Desktop\OOP-2\5.Exercise\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\5.Exercise\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.csproj.CoreCompileInputs.cache

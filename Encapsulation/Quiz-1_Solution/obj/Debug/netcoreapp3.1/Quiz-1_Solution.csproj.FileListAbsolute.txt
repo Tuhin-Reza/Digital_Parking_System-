@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\bin\Debug\netcoreapp3.1\Quiz-1_Solution.exe
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\bin\Debug\netcoreapp3.1\Quiz-1_Solution.deps.json
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\bin\Debug\netcoreapp3.1\Quiz-1_Solution.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\bin\Debug\netcoreapp3.1\Quiz-1_Solution.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\bin\Debug\netcoreapp3.1\Quiz-1_Solution.dll
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\bin\Debug\netcoreapp3.1\Quiz-1_Solution.pdb
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\obj\Debug\netcoreapp3.1\Quiz-1_Solution.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\obj\Debug\netcoreapp3.1\Quiz-1_Solution.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\obj\Debug\netcoreapp3.1\Quiz-1_Solution.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\obj\Debug\netcoreapp3.1\Quiz-1_Solution.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\obj\Debug\netcoreapp3.1\Quiz-1_Solution.dll
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\obj\Debug\netcoreapp3.1\Quiz-1_Solution.pdb
+F:\Desktop\OOP-2\5.Exercise\Encapsulation\Quiz-1_Solution\obj\Debug\netcoreapp3.1\Quiz-1_Solution.genruntimeconfig.cache

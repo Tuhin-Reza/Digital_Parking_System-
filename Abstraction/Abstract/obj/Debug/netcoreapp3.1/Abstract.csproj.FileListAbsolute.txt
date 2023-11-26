@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\bin\Debug\netcoreapp3.1\Abstract.exe
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache
+F:\Desktop\OOP-2\5.Exercise\Abstraction\Abstract\obj\Debug\netcoreapp3.1\Abstract.csprojAssemblyReference.cache

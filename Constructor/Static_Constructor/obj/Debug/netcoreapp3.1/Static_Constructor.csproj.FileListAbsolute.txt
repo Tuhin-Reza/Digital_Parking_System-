@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\bin\Debug\netcoreapp3.1\Static_Constructor.exe
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\bin\Debug\netcoreapp3.1\Static_Constructor.deps.json
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\bin\Debug\netcoreapp3.1\Static_Constructor.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\bin\Debug\netcoreapp3.1\Static_Constructor.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\bin\Debug\netcoreapp3.1\Static_Constructor.dll
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\bin\Debug\netcoreapp3.1\Static_Constructor.pdb
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\obj\Debug\netcoreapp3.1\Static_Constructor.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\obj\Debug\netcoreapp3.1\Static_Constructor.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\obj\Debug\netcoreapp3.1\Static_Constructor.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\obj\Debug\netcoreapp3.1\Static_Constructor.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\obj\Debug\netcoreapp3.1\Static_Constructor.dll
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\obj\Debug\netcoreapp3.1\Static_Constructor.pdb
+F:\Desktop\OOP-2\5.Exercise\Constructor\Static_Constructor\obj\Debug\netcoreapp3.1\Static_Constructor.genruntimeconfig.cache

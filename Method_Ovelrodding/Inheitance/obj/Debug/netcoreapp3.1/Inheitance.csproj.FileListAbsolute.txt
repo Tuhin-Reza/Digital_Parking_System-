@@ -1,0 +1,12 @@
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\bin\Debug\netcoreapp3.1\Inheitance.exe
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\bin\Debug\netcoreapp3.1\Inheitance.deps.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\bin\Debug\netcoreapp3.1\Inheitance.runtimeconfig.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\bin\Debug\netcoreapp3.1\Inheitance.runtimeconfig.dev.json
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\bin\Debug\netcoreapp3.1\Inheitance.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\bin\Debug\netcoreapp3.1\Inheitance.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\obj\Debug\netcoreapp3.1\Inheitance.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\obj\Debug\netcoreapp3.1\Inheitance.AssemblyInfo.cs
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\obj\Debug\netcoreapp3.1\Inheitance.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\obj\Debug\netcoreapp3.1\Inheitance.dll
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\obj\Debug\netcoreapp3.1\Inheitance.pdb
+F:\Desktop\OOP-2\5.Exercise\Method_Ovelrodding\Inheitance\obj\Debug\netcoreapp3.1\Inheitance.genruntimeconfig.cache
