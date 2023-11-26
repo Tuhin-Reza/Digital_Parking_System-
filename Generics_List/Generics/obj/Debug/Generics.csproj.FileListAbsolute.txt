@@ -1,0 +1,12 @@
+C:\Users\Teacher\Desktop\Generics_List\Generics\bin\Debug\Generics.exe.config
+C:\Users\Teacher\Desktop\Generics_List\Generics\bin\Debug\Generics.exe
+C:\Users\Teacher\Desktop\Generics_List\Generics\bin\Debug\Generics.pdb
+C:\Users\Teacher\Desktop\Generics_List\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Generics_List\Generics\obj\Debug\Generics.exe
+C:\Users\Teacher\Desktop\Generics_List\Generics\obj\Debug\Generics.pdb
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics\bin\Debug\Generics.exe.config
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics\obj\Debug\Generics.exe
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics\obj\Debug\Generics.pdb
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics\bin\Debug\Generics.exe
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics\bin\Debug\Generics.pdb
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

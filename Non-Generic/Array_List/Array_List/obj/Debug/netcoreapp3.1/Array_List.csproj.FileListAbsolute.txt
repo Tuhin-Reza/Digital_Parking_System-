@@ -1,0 +1,13 @@
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\bin\Debug\netcoreapp3.1\Array_List.exe
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\bin\Debug\netcoreapp3.1\Array_List.deps.json
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\bin\Debug\netcoreapp3.1\Array_List.runtimeconfig.json
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\bin\Debug\netcoreapp3.1\Array_List.runtimeconfig.dev.json
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\bin\Debug\netcoreapp3.1\Array_List.dll
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\bin\Debug\netcoreapp3.1\Array_List.pdb
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\obj\Debug\netcoreapp3.1\Array_List.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\obj\Debug\netcoreapp3.1\Array_List.AssemblyInfoInputs.cache
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\obj\Debug\netcoreapp3.1\Array_List.AssemblyInfo.cs
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\obj\Debug\netcoreapp3.1\Array_List.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\obj\Debug\netcoreapp3.1\Array_List.dll
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\obj\Debug\netcoreapp3.1\Array_List.pdb
+F:\Desktop\OOP-2\4.Exercise\Non-Generic\Array_List\Array_List\obj\Debug\netcoreapp3.1\Array_List.genruntimeconfig.cache

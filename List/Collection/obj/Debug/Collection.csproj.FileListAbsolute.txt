@@ -1,0 +1,12 @@
+C:\Users\Teacher\Desktop\List\Collection\bin\Debug\Collection.exe.config
+C:\Users\Teacher\Desktop\List\Collection\bin\Debug\Collection.exe
+C:\Users\Teacher\Desktop\List\Collection\bin\Debug\Collection.pdb
+C:\Users\Teacher\Desktop\List\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\List\Collection\obj\Debug\Collection.exe
+C:\Users\Teacher\Desktop\List\Collection\obj\Debug\Collection.pdb
+C:\Users\Teacher\Desktop\Week-9\List\Collection\bin\Debug\Collection.exe.config
+C:\Users\Teacher\Desktop\Week-9\List\Collection\obj\Debug\Collection.exe
+C:\Users\Teacher\Desktop\Week-9\List\Collection\obj\Debug\Collection.pdb
+C:\Users\Teacher\Desktop\Week-9\List\Collection\bin\Debug\Collection.exe
+C:\Users\Teacher\Desktop\Week-9\List\Collection\bin\Debug\Collection.pdb
+C:\Users\Teacher\Desktop\Week-9\List\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache

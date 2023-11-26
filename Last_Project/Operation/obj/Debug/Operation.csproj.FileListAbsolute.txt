@@ -1,0 +1,16 @@
+C:\Users\Teacher\Desktop\Last_Project\Operation\bin\Debug\Operation.exe.config
+C:\Users\Teacher\Desktop\Last_Project\Operation\bin\Debug\Operation.exe
+C:\Users\Teacher\Desktop\Last_Project\Operation\bin\Debug\Operation.pdb
+C:\Users\Teacher\Desktop\Last_Project\Operation\obj\Debug\Operation.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Last_Project\Operation\obj\Debug\Operation.Form1.resources
+C:\Users\Teacher\Desktop\Last_Project\Operation\obj\Debug\Operation.Properties.Resources.resources
+C:\Users\Teacher\Desktop\Last_Project\Operation\obj\Debug\Operation.csproj.GenerateResource.Cache
+C:\Users\Teacher\Desktop\Last_Project\Operation\obj\Debug\Operation.exe
+C:\Users\Teacher\Desktop\Last_Project\Operation\obj\Debug\Operation.pdb
+F:\Desktop\OOP-2\3.Zip_File\OOP2_W12_Spring_2020-21\OOP2_W12_Spring_2020-21\Last_Project\Operation\obj\Debug\Operation.csprojAssemblyReference.cache
+F:\Desktop\OOP-2\3.Zip_File\OOP2_W12_Spring_2020-21\OOP2_W12_Spring_2020-21\Last_Project\Operation\obj\Debug\Operation.Form1.resources
+F:\Desktop\OOP-2\3.Zip_File\OOP2_W12_Spring_2020-21\OOP2_W12_Spring_2020-21\Last_Project\Operation\obj\Debug\Operation.Properties.Resources.resources
+F:\Desktop\OOP-2\3.Zip_File\OOP2_W12_Spring_2020-21\OOP2_W12_Spring_2020-21\Last_Project\Operation\obj\Debug\Operation.csproj.GenerateResource.cache
+F:\Desktop\OOP-2\3.Zip_File\OOP2_W12_Spring_2020-21\OOP2_W12_Spring_2020-21\Last_Project\Operation\obj\Debug\Operation.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\3.Zip_File\OOP2_W12_Spring_2020-21\OOP2_W12_Spring_2020-21\Last_Project\Operation\obj\Debug\Operation.exe
+F:\Desktop\OOP-2\3.Zip_File\OOP2_W12_Spring_2020-21\OOP2_W12_Spring_2020-21\Last_Project\Operation\obj\Debug\Operation.pdb

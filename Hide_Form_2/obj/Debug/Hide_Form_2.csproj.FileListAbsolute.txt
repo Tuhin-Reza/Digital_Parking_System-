@@ -1,0 +1,11 @@
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\bin\Debug\Hide_Form_2.exe.config
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\bin\Debug\Hide_Form_2.exe
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\bin\Debug\Hide_Form_2.pdb
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.Form1.resources
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.Form2.resources
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.Form3.resources
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.Properties.Resources.resources
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.csproj.GenerateResource.cache
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.csproj.CoreCompileInputs.cache
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.exe
+F:\Desktop\OOP-2\4.Exercise\Hide_Form_2\obj\Debug\Hide_Form_2.pdb

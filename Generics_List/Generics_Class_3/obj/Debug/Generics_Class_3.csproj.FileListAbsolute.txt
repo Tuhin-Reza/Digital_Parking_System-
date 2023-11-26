@@ -1,0 +1,10 @@
+C:\Users\Teacher\Desktop\Generics_List\Generics_Class_3\bin\Debug\Generics_Class_3.exe.config
+C:\Users\Teacher\Desktop\Generics_List\Generics_Class_3\bin\Debug\Generics_Class_3.exe
+C:\Users\Teacher\Desktop\Generics_List\Generics_Class_3\bin\Debug\Generics_Class_3.pdb
+C:\Users\Teacher\Desktop\Generics_List\Generics_Class_3\obj\Debug\Generics_Class_3.exe
+C:\Users\Teacher\Desktop\Generics_List\Generics_Class_3\obj\Debug\Generics_Class_3.pdb
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics_Class_3\bin\Debug\Generics_Class_3.exe.config
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics_Class_3\obj\Debug\Generics_Class_3.exe
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics_Class_3\obj\Debug\Generics_Class_3.pdb
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics_Class_3\bin\Debug\Generics_Class_3.exe
+C:\Users\Teacher\Desktop\Week-8\Generics_List\Generics_Class_3\bin\Debug\Generics_Class_3.pdb

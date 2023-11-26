@@ -1,0 +1,12 @@
+C:\Users\Teacher\Desktop\List\ref vs out\bin\Debug\ref vs out.exe.config
+C:\Users\Teacher\Desktop\List\ref vs out\bin\Debug\ref vs out.exe
+C:\Users\Teacher\Desktop\List\ref vs out\bin\Debug\ref vs out.pdb
+C:\Users\Teacher\Desktop\List\ref vs out\obj\Debug\ref vs out.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\List\ref vs out\obj\Debug\ref vs out.exe
+C:\Users\Teacher\Desktop\List\ref vs out\obj\Debug\ref vs out.pdb
+C:\Users\Teacher\Desktop\Week-9\List\ref vs out\bin\Debug\ref vs out.exe.config
+C:\Users\Teacher\Desktop\Week-9\List\ref vs out\obj\Debug\ref vs out.exe
+C:\Users\Teacher\Desktop\Week-9\List\ref vs out\obj\Debug\ref vs out.pdb
+C:\Users\Teacher\Desktop\Week-9\List\ref vs out\bin\Debug\ref vs out.exe
+C:\Users\Teacher\Desktop\Week-9\List\ref vs out\bin\Debug\ref vs out.pdb
+C:\Users\Teacher\Desktop\Week-9\List\ref vs out\obj\Debug\ref vs out.csprojResolveAssemblyReference.cache
